@@ -1,0 +1,7 @@
+{
+    "name": "pcktest/pcktest",
+    "description": "This is a test file",
+    "require": {
+        "php": "^5.6.0"
+    }
+}
