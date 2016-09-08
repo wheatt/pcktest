@@ -1,5 +1,5 @@
 {
-    "name": "pcktest/pcktest",
+    "name": "pcktest-wheatt-test/pcktest-wheatt-test",
     "description": "This is a test file",
     "require": {
         "php": "^5.6.0"
